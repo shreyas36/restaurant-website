@@ -20,7 +20,9 @@
   background-color: #9575CD;
   color: white;
 }
-
+.navbar-dark{
+  background-color: #9575CD;
+}
 .address{
   font-size: 80%;
   margin:0px;
